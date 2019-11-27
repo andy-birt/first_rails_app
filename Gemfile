@@ -41,6 +41,8 @@ gem "nokogiri", ">= 1.10.4"
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
 
+gem "rubyzip", ">= 1.3.0"
+
 # Reduces boot times through caching; required in config/boot.rb
 gem 'bootsnap', '>= 1.1.0', require: false
 
